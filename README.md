@@ -10,7 +10,7 @@ Customizable: Extendable functionality with Python scripting for tailored automa
 Installation:
 
 1.Clone the Repository:
-git clone https://github.com/karthickraja0809/jarvis.git
+[git clone https://github.com/karthickraja0809/jarvis.git](https://github.com/karthickraja0809/jarvisAI.git)
 
 2.Install Dependencies:
 py -m pip install -r requirements.txt
